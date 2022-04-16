@@ -30,3 +30,8 @@ What is the average call duration for the attracted clients?
 What is the average age among the attracted and unmarried clients?
 What is the average age and call duration for different types of client employment?
 In addition, we will make a visual analysis in order to plan marketing banking campaigns more effectively.
+
+## USED LIBRARIES:
+1. NUMPY
+2. PANDAS
+3. MATPLOTLIB
