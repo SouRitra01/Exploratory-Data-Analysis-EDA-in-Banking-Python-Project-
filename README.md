@@ -34,4 +34,3 @@ In addition, we will make a visual analysis in order to plan marketing banking c
 1. NUMPY
 2. PANDAS
 3. MATPLOTLIB
-4. SEABORN
